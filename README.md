@@ -3,6 +3,7 @@ Microsoft Graph App Roles Tiers
 
     // Tier 0
     "Application.ReadWrite.All": "Tier 0",
+    "AppRoleAssignment.ReadWrite.All": "Tier 0",
     "Device.ReadWrite.All": "Tier 0",
     "Directory.ReadWrite.All": "Tier 0",
     "Group.ReadWrite.All": "Tier 0",
