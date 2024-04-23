@@ -1,5 +1,4 @@
-# msgraph-approle-tiers
-Microsoft Graph App Role Tiers
+# Microsoft Graph Application Role Tiers
 
     // Tier 0
     "Application.ReadWrite.All": "Tier 0",
