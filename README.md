@@ -1,3 +1,6 @@
+Deprecated - refer to Thomas' roles [Cloud Arkitect - AzurePrivilegedIAM](https://github.com/Cloud-Architekt/AzurePrivilegedIAM)
+
+
 # Microsoft Graph Application Role Tiers
 
 As referenced by [EntraExplorer](https://www.entraexplorer.com/)
